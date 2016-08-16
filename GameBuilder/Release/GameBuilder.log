@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  clsBlock.cpp
+  clsCheckBlock.cpp
+  clsEndBlock.cpp
+  clsKillBlock.cpp
+  clsParent.cpp
+  clsPlayer.cpp
+clsPlayer.cpp(353): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+clsPlayer.cpp(354): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+clsPlayer.cpp(355): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+clsPlayer.cpp(356): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  clsPlaySound.cpp
+  clsStrtBlock.cpp
+  clsWaterBlock.cpp
+  GameBuilder.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+f:\gamebuilder\gamebuilder\gamebuilder\GameBuilder.h(120): warning C4042: 'keystate': has bad storage class
+f:\gamebuilder\gamebuilder\gamebuilder\GameBuilder.h(121): warning C4042: 'keystate': has bad storage class
+GameBuilder.cpp(357): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameBuilder.cpp(359): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameBuilder.cpp(361): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameBuilder.cpp(363): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameBuilder.cpp(545): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameBuilder.cpp(546): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+GameBuilder.cpp(550): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+GameBuilder.cpp(551): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+GameBuilder.cpp(568): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+GameBuilder.cpp(569): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+GameBuilder.cpp(803): warning C4042: 'keystate': has bad storage class
+GameBuilder.cpp(845): warning C4042: 'keystate': has bad storage class
+  soundStart.cpp
+  Generating code
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameBuilder.vcxproj -> F:\GameBuilder\GameBuilder\Release\GameBuilder.exe
